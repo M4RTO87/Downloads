@@ -1,0 +1,21 @@
+id_alumno,run_alumno,dv_alumno,pnombre_alumno,snombre_alumno,appaterno_alumno,apmaterno_alumno,correo_alumno,direccion,id_zona,id_comuna,id_escuela,id_estado_civil,id_sede
+1,12345678,K,Juan,Pablo,Gonzalez,Soto,juan.gonzalez@duocuc.cl,Calle Falsa 123,3,115,2,1,1
+2,87654321,1,Maria,Josefa,Lopez,Molina,maria.lopez@duocuc.cl,Av. Siempre Viva 456,5,100,8,2,2
+3,11223344,3,Pedro,Andres,Perez,Carrasco,pedro.perez@duocuc.cl,Camino Real 789,4,120,3,3,3
+4,99887766,2,Ana,Maria,Rojas,Fernandez,ana.rojas@duocuc.cl,Paseo Central 321,2,115,4,4,4
+5,33445566,9,Claudio,Hernan,Salazar,Campos,claudio.salazar@duocuc.cl,Plaza Oeste 654,1,105,5,5,2
+6,55667788,5,Francisca,Sofia,Munoz,Araya,francisca.munoz@duocuc.cl,Calle del Sol 222,3,115,2,2,1
+7,66778899,4,Diego,Antonio,Sepulveda,Navarro,diego.sepulveda@duocuc.cl,Calle Luna 333,4,120,8,3,3
+8,77889900,8,Fernanda,Isidora,Cardenas,Morales,fernanda.cardenas@duocuc.cl,Av. Sol 444,5,100,3,1,2
+9,88990011,7,Rodrigo,Ivan,Ortiz,Garcia,rodrigo.ortiz@duocuc.cl,Camino Estrella 555,1,105,4,5,4
+10,99001122,6,Valentina,Belen,Castro,Vega,valentina.castro@duocuc.cl,Av. Principal 666,2,115,5,4,2
+11,10111223,2,Camila,Alejandra,Fuentes,Diaz,camila.fuentes@duocuc.cl,Calle Norte 777,3,115,2,1,1
+12,11223355,5,Tomas,Cristobal,Vasquez,Reyes,tomas.vasquez@duocuc.cl,Av. Pacifico 888,5,100,8,2,2
+13,22334466,9,Felipe,Ignacio,Medina,Cortes,felipe.medina@duocuc.cl,Camino Cordillera 999,4,120,3,3,3
+14,33445577,1,Catalina,Andrea,Cabrera,Salinas,catalina.cabrera@duocuc.cl,Paseo Del Mar 111,2,115,4,4,4
+15,44556688,6,Cristian,Manuel,Torres,Campos,cristian.torres@duocuc.cl,Plaza Este 222,1,105,5,5,2
+16,55667799,4,Lorena,Victoria,Ramos,Tapia,lorena.ramos@duocuc.cl,Calle Brillante 333,3,115,2,2,1
+17,66778800,8,Matias,Joaquin,Herrera,Ortiz,matias.herrera@duocuc.cl,Av. Estelar 444,4,120,8,3,3
+18,77889911,7,Sofia,Francisca,Mora,Guzman,sofia.mora@duocuc.cl,Calle Oeste 555,5,100,3,1,2
+19,88990022,3,Pablo,Rafael,Godoy,Vergara,pablo.godoy@duocuc.cl,Camino Luna 666,1,105,4,5,4
+20,99001133,5,Daniela,Isabel,Villanueva,Arrieta,daniela.villanueva@duocuc.cl,Av. Secundaria 777,2,115,5,4,2
